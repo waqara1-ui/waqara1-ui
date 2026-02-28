@@ -4,7 +4,7 @@ I love computer science, design, and implementing AI in ethical ways. I’m espe
 Feel free to explore my repositories to see what I’m currently building (and what I’ve worked on so far).
 
 Let’s get in touch!
-Find me on [LinkedIn]
+Find me on [LinkedIn](https://www.linkedin.com/in/amina-waqar-232b79376/).
 view my or email me at [aminawaqar506@gmail.com](mailto:aminawaqar506@gmail.com).
 .
 
