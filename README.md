@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm a 3rd year Computer Science Major at UCI. 
+I love Computer Scince, design, and implementing AI in ethical ways. I'm interested in areas where these passions intersect, while working on projects that allow me to lear and enhance my knoelsgde and skills. 
+Feel free to ecplore my repositotores to see what I'm working or  and have done so far. 
+Lat's get in touch! Find me on LinkedIn, view my resume https://docs.google.com/document/d/1EvmS4zSAYCVHm0FJKjm1ZGF5R0Z08zY6UcFq6rWOr-s/edit?usp=sharing, or send me an 'aminawaqar506@gmail.com'
 
 <!--
 **waqara1-ui/waqara1-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
