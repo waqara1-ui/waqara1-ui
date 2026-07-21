@@ -1,7 +1,26 @@
-## Hi there! I'm Amina, a 3rd year Computer Science Major at UC Irvine.
-I love computer science, design, and implementing AI in ethical ways. I’m especially interested in the spaces where these passions intersect, and I’m always working on projects that help me learn and strengthen my skills.
+## Hi there! I'm Amina. 
+I’m a third-year Computer Science student at UC Irvine interested in AI product management and technical product roles. I enjoy combining product thinking, user-centered design, and software development to build responsible AI tools that solve meaningful problems.
 
-Feel free to explore my repositories to see what I’m currently building (and what I’ve worked on so far).
+## Featured Projects
+
+### KnowledgeHub AI
+An enterprise knowledge-management platform designed to help users securely search documents, retrieve relevant information, and receive grounded AI responses.
+
+### RetiScan
+An AI-powered retinal screening application that helps users understand potential diabetic retinopathy severity from uploaded retinal images. Developed as part of UCI CareTech AI x Healthcare.
+
+### Search Engine
+A Python-based search engine that crawls web pages, builds an inverted index, and ranks relevant results based on user queries.
+
+## Areas of Interest
+
+- AI product management
+- Product discovery and requirements
+- Responsible AI
+- Human-centered design
+- Machine learning and full-stack development
+
+## Let’s Connect
 
 Let’s get in touch!
 Find me on [LinkedIn](https://www.linkedin.com/in/amina-waqar-232b79376/),
@@ -12,14 +31,4 @@ or send me an email [aminawaqar506@gmail.com](mailto:aminawaqar506@gmail.com).
 <!--
 **waqara1-ui/waqara1-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
